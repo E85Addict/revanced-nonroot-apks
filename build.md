@@ -8,18 +8,18 @@ Patches: revanced-patches-2.112.0.jar
 
   
 **App Versions:**  
-YouTube: 17.43.36  
-downloaded from: [APKMirror - YouTube](https://www.apkmirror.com/apk/google-inc/youtube/youtube-17-43-36-release/youtube-17-43-36-2-android-apk-download/)  
 Music (arm64-v8a): 5.31.50  
 downloaded from: [APKMirror - Music (arm64-v8a)](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-5-31-50-release/youtube-music-5-31-50-2-android-apk-download/)  
-Twitter: 9.65.3-release.0  
-downloaded from: [APKMirror - Twitter](https://www.apkmirror.com/apk/twitter-inc/twitter/twitter-9-65-3-release-0-release/twitter-9-65-3-release-0-android-apk-download/)  
-Twitch: 14.2.0  
-downloaded from: [APKMirror - Twitch](https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/twitch-14-2-0-release/twitch-live-game-streaming-14-2-0-android-apk-download/)  
-TikTok: 26.9.4  
-downloaded from: [APKMirror - TikTok](https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/tik-tok-including-musical-ly-26-9-4-release/tiktok-26-9-4-2-android-apk-download/)  
+YouTube: 17.43.36  
+downloaded from: [APKMirror - YouTube](https://www.apkmirror.com/apk/google-inc/youtube/youtube-17-43-36-release/youtube-17-43-36-2-android-apk-download/)  
 Reddit: 2022.43.0  
 downloaded from: [APKMirror - Reddit](https://www.apkmirror.com/apk/redditinc/reddit/reddit-2022-43-0-release/reddit-2022-43-0-2-android-apk-download/)  
+Twitch: 14.2.0  
+downloaded from: [APKMirror - Twitch](https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/twitch-14-2-0-release/twitch-live-game-streaming-14-2-0-android-apk-download/)  
+Twitter: 9.65.5-release.0  
+downloaded from: [APKMirror - Twitter](https://www.apkmirror.com/apk/twitter-inc/twitter/twitter-9-65-5-release-0-release/twitter-9-65-5-release-0-android-apk-download/)  
+TikTok: 27.0.15  
+downloaded from: [APKMirror - TikTok](https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/tik-tok-including-musical-ly-27-0-15-release/tiktok-27-0-15-2-android-apk-download/)  
 Music (arm-v7a): 5.31.50  
 downloaded from: [APKMirror - Music (arm-v7a)](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-5-31-50-release/youtube-music-5-31-50-android-apk-download/)  
 
