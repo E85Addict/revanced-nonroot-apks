@@ -1,23 +1,23 @@
 CLI: revanced-cli-2.17.0-all.jar  
 Integrations: app-release-unsigned-v0.74.1.apk  
-Patches: revanced-patches-2.116.0.jar  
+Patches: revanced-patches-2.117.0.jar  
 
-### [2.116.0](https://github.com/E85Addict/revanced-patches/compare/v2.115.0...v2.116.0) (2022-11-21)
+### [2.117.0](https://github.com/E85Addict/revanced-patches/compare/v2.116.0...v2.117.0) (2022-11-21)
 ### Features
-* Personal Branding for YouTube and YT Music. ([ac3ed6f](https://github.com/E85Addict/revanced-patches/commit/ac3ed6f600998424ed2ba34dc88a11b411258245))
+* Personal Branding for YouTube and YT Music. ([341be61](https://github.com/E85Addict/revanced-patches/commit/341be6124919b08f280775f2d5d48995d7499d0f))
 
   
 **App Versions:**  
 Music (arm64-v8a): 5.31.50  
 downloaded from: [APKMirror - Music (arm64-v8a)](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-5-31-50-release/youtube-music-5-31-50-2-android-apk-download/)  
-Twitch: 14.2.0  
-downloaded from: [APKMirror - Twitch](https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/twitch-14-2-0-release/twitch-live-game-streaming-14-2-0-android-apk-download/)  
-TikTok: 27.0.3  
-downloaded from: [APKMirror - TikTok](https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/tik-tok-including-musical-ly-27-0-3-release/tiktok-27-0-3-3-android-apk-download/)  
-Twitter: 9.65.5-release.0  
-downloaded from: [APKMirror - Twitter](https://www.apkmirror.com/apk/twitter-inc/twitter/twitter-9-65-5-release-0-release/twitter-9-65-5-release-0-android-apk-download/)  
 YouTube: 17.43.36  
 downloaded from: [APKMirror - YouTube](https://www.apkmirror.com/apk/google-inc/youtube/youtube-17-43-36-release/youtube-17-43-36-2-android-apk-download/)  
+Twitter: 9.65.5-release.0  
+downloaded from: [APKMirror - Twitter](https://www.apkmirror.com/apk/twitter-inc/twitter/twitter-9-65-5-release-0-release/twitter-9-65-5-release-0-android-apk-download/)  
+TikTok: 27.0.3  
+downloaded from: [APKMirror - TikTok](https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/tik-tok-including-musical-ly-27-0-3-release/tiktok-27-0-3-3-android-apk-download/)  
+Twitch: 14.2.0  
+downloaded from: [APKMirror - Twitch](https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/twitch-14-2-0-release/twitch-live-game-streaming-14-2-0-android-apk-download/)  
 Reddit: 2022.43.0  
 downloaded from: [APKMirror - Reddit](https://www.apkmirror.com/apk/redditinc/reddit/reddit-2022-43-0-release/reddit-2022-43-0-2-android-apk-download/)  
 
