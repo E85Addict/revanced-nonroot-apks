@@ -1,10 +1,10 @@
 CLI: revanced-cli-2.17.0-all.jar  
 Integrations: app-release-unsigned-v0.78.0.apk  
-Patches: revanced-patches-2.123.0.jar  
+Patches: revanced-patches-2.126.0.jar  
 
-### [2.123.0](https://github.com/E85Addict/revanced-patches/compare/v2.122.0...v2.123.0) (2022-11-25)
+### [2.126.0](https://github.com/E85Addict/revanced-patches/compare/v2.125.0...v2.126.0) (2022-11-26)
 ### Features
-* Personal Branding for YouTube and YT Music. ([7ca99c2](https://github.com/E85Addict/revanced-patches/commit/7ca99c21fcd12fa0c583018712cb464fb91d513c))
+* Personal Branding for YouTube and YT Music. ([acd5bb4](https://github.com/E85Addict/revanced-patches/commit/acd5bb43fb395faef250e0acd85891651ce75c20))
 
   
 **App Versions:**  
@@ -18,8 +18,8 @@ Twitter: 9.65.6-release.0
 downloaded from: [APKMirror - Twitter](https://www.apkmirror.com/apk/twitter-inc/twitter/twitter-9-65-6-release-0-release/twitter-9-65-6-release-0-android-apk-download/)  
 Reddit: 2022.43.0  
 downloaded from: [APKMirror - Reddit](https://www.apkmirror.com/apk/redditinc/reddit/reddit-2022-43-0-release/reddit-2022-43-0-2-android-apk-download/)  
-TikTok: 27.1.3  
-downloaded from: [APKMirror - TikTok](https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/tik-tok-including-musical-ly-27-1-3-release/tiktok-27-1-3-android-apk-download/)  
+TikTok: 27.1.15  
+downloaded from: [APKMirror - TikTok](https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/tik-tok-including-musical-ly-27-1-15-release/tiktok-27-1-15-2-android-apk-download/)  
 
 Install [Vanced Microg](https://github.com/inotia00/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 
