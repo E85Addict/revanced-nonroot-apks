@@ -1,10 +1,10 @@
 CLI: revanced-cli-2.18.2-all.jar  
-Integrations: app-release-unsigned-v0.84.1.apk  
-Patches: revanced-patches-2.147.0.jar  
+Integrations: app-release-unsigned-v0.84.2.apk  
+Patches: revanced-patches-2.146.1.jar  
 
-### [2.147.0](https://github.com/E85Addict/revanced-patches/compare/v2.146.0...v2.147.0) (2022-12-19)
-### Features
-* Personal Branding for YouTube and YT Music ([5d1ed42](https://github.com/E85Addict/revanced-patches/commit/5d1ed4225ae955fb627c1e8025e11c38eb00a6fe))
+#### [2.146.1](https://github.com/E85Addict/revanced-patches/compare/v2.146.0...v2.146.1) (2022-12-20)
+### Bug Fixes
+* personal logo && Add upstream sync ([6eef773](https://github.com/E85Addict/revanced-patches/commit/6eef773a879454121b8d5c52a7502547542f8241))
 
   
 **App Versions:**  
