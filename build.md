@@ -1,10 +1,10 @@
-CLI: revanced-cli-2.18.2-all.jar  
-Integrations: app-release-unsigned-v0.85.1.apk  
-Patches: revanced-patches-2.146.1.jar  
+CLI: revanced-cli-2.18.3-all.jar  
+Integrations: app-release-unsigned-v0.86.0.apk  
+Patches: revanced-patches-2.147.1.jar  
 
-#### [2.146.1](https://github.com/E85Addict/revanced-patches/compare/v2.146.0...v2.146.1) (2022-12-20)
+#### [2.147.1](https://github.com/E85Addict/revanced-patches/compare/v2.147.0...v2.147.1) (2022-12-22)
 ### Bug Fixes
-* personal logo && Add upstream sync ([6eef773](https://github.com/E85Addict/revanced-patches/commit/6eef773a879454121b8d5c52a7502547542f8241))
+* personal logo && Add upstream sync ([a420afd](https://github.com/E85Addict/revanced-patches/commit/a420afd392223bb0a1b52330bddd96e063706f15))
 
   
 **App Versions:**  
