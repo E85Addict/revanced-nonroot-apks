@@ -8,10 +8,10 @@ Patches: revanced-patches-2.147.1.jar
 
   
 **App Versions:**  
-Music (arm64-v8a): 5.36.51
-downloaded from: [APKMirror - Music (arm64-v8a)](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-5-36-51-release/youtube-music-5-36-51-android-apk-download/)  
 YouTube: 17.49.37
 downloaded from: [APKMirror - YouTube](https://www.apkmirror.com/apk/google-inc/youtube/youtube-17-49-37-release/youtube-17-49-37-2-android-apk-download/)  
+Music (arm64-v8a): 5.36.51
+downloaded from: [APKMirror - Music (arm64-v8a)](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-5-36-51-release/youtube-music-5-36-51-android-apk-download/)  
 Twitter: 9.69.1-release.0
 downloaded from: [APKMirror - Twitter](https://www.apkmirror.com/apk/twitter-inc/twitter/twitter-9-69-1-release-0-release/twitter-9-69-1-release-0-2-android-apk-download/)  
 Reddit: 2022.45.0
