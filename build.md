@@ -1,17 +1,17 @@
 CLI: revanced-cli-2.18.3-all.jar  
 Integrations: app-release-unsigned-v0.89.0.apk  
-Patches: revanced-patches-2.148.1.jar  
+Patches: revanced-patches-2.149.1.jar  
 
-#### [2.148.1](https://github.com/E85Addict/revanced-patches/compare/v2.148.0...v2.148.1) (2022-12-29)
+#### [2.149.1](https://github.com/E85Addict/revanced-patches/compare/v2.149.0...v2.149.1) (2022-12-30)
 ### Performance Improvements
-* Personal Logo && Add upstream sync ([2b3b257](https://github.com/E85Addict/revanced-patches/commit/2b3b257e482df4fd8620f62fd768c71612104ef4))
+* Personal Logo && Add upstream sync ([e25c929](https://github.com/E85Addict/revanced-patches/commit/e25c929ddc433c0de9a6535570cc805f3165f0e6))
 
   
 **App Versions:**  
-Music (arm64-v8a): 5.36.51
-downloaded from: [APKMirror - Music (arm64-v8a)](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-5-36-51-release/youtube-music-5-36-51-android-apk-download/)  
 YouTube: 17.49.37
 downloaded from: [APKMirror - YouTube](https://www.apkmirror.com/apk/google-inc/youtube/youtube-17-49-37-release/youtube-17-49-37-2-android-apk-download/)  
+Music (arm64-v8a): 5.36.51
+downloaded from: [APKMirror - Music (arm64-v8a)](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-5-36-51-release/youtube-music-5-36-51-android-apk-download/)  
 Twitter: 9.69.1-release.0
 downloaded from: [APKMirror - Twitter](https://www.apkmirror.com/apk/twitter-inc/twitter/twitter-9-69-1-release-0-release/twitter-9-69-1-release-0-2-android-apk-download/)  
 Reddit: 2022.45.0
