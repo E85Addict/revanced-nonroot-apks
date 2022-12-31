@@ -1,5 +1,5 @@
 CLI: revanced-cli-2.18.3-all.jar  
-Integrations: app-release-unsigned-v0.89.0.apk  
+Integrations: app-release-unsigned-v0.90.0.apk  
 Patches: revanced-patches-2.149.1.jar  
 
 #### [2.149.1](https://github.com/E85Addict/revanced-patches/compare/v2.149.0...v2.149.1) (2022-12-30)
